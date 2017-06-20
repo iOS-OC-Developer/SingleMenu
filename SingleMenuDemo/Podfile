@@ -1,0 +1,4 @@
+platform:ios,'7.0'
+target "SingleMenuDemo" do
+pod 'SDAutoLayout'
+end
